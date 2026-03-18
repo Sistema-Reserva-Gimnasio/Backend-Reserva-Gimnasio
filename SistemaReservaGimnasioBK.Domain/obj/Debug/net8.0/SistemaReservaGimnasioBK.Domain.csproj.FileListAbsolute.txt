@@ -1,0 +1,11 @@
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\bin\Debug\net8.0\SistemaReservaGimnasioBK.Domain.deps.json
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\bin\Debug\net8.0\SistemaReservaGimnasioBK.Domain.dll
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\bin\Debug\net8.0\SistemaReservaGimnasioBK.Domain.pdb
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\SistemaReservaGimnasioBK.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\SistemaReservaGimnasioBK.Domain.AssemblyInfoInputs.cache
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\SistemaReservaGimnasioBK.Domain.AssemblyInfo.cs
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\SistemaReservaGimnasioBK.Domain.csproj.CoreCompileInputs.cache
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\SistemaReservaGimnasioBK.Domain.dll
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\refint\SistemaReservaGimnasioBK.Domain.dll
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\SistemaReservaGimnasioBK.Domain.pdb
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Domain\obj\Debug\net8.0\ref\SistemaReservaGimnasioBK.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\bin\Debug\net8.0\SistemaReservaGimnasioBK.Application.deps.json
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\bin\Debug\net8.0\SistemaReservaGimnasioBK.Application.dll
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\bin\Debug\net8.0\SistemaReservaGimnasioBK.Application.pdb
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\bin\Debug\net8.0\SistemaReservaGimnasioBK.Domain.dll
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\bin\Debug\net8.0\SistemaReservaGimnasioBK.Domain.pdb
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaReservaGimnasioBK.Application.csproj.AssemblyReference.cache
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaReservaGimnasioBK.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaReservaGimnasioBK.Application.AssemblyInfoInputs.cache
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaReservaGimnasioBK.Application.AssemblyInfo.cs
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaReservaGimnasioBK.Application.csproj.CoreCompileInputs.cache
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaR.73DF9611.Up2Date
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaReservaGimnasioBK.Application.dll
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\refint\SistemaReservaGimnasioBK.Application.dll
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\SistemaReservaGimnasioBK.Application.pdb
+C:\Users\svsil\Desktop\Silvas-Indrustries\Sistema Gimnasios\SistemaReservaGimnasioBK\SistemaReservaGimnasioBK.Application\obj\Debug\net8.0\ref\SistemaReservaGimnasioBK.Application.dll
